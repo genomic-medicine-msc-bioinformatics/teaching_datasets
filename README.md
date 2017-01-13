@@ -19,4 +19,6 @@ shared teaching and demo data sets/resources
 
 - [Calling variants with freebayes](http://clavius.bc.edu/~erik/CSHL-advanced-sequencing/freebayes-tutorial.html) : By Erik Garrison erik.garrison@bc.edu / @erikgarrison  
 
-- [Wuxi Nextcode Clinical Sequence Analyzer Tutorial](https://youtu.be/rMMPwoSYKO4) (YouTube)  
+- [Wuxi Nextcode Clinical Sequence Analyzer Tutorial](https://youtu.be/rMMPwoSYKO4) (YouTube) 
+
+- [Galaxy NGS 101](https://wiki.galaxyproject.org/Learn/GalaxyNGS101)  
