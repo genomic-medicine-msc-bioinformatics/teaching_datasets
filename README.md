@@ -14,4 +14,6 @@ shared teaching and demo data sets/resources
 
 - [Glossary for Next-Generation DNA Sequencing](http://seqinformatics.com/?page_id=32) *(from Stuart Brown’s book [Next-Generation DNA Sequencing Informatics](https://www.amazon.co.uk/Stuart-M-Brown/e/B001H6NZLC/ref=dp_byline_cont_book_1))*
 
-- [Calling variants with freebayes](http://clavius.bc.edu/~erik/CSHL-advanced-sequencing/freebayes-tutorial.html) : By Erik Garrison erik.garrison@bc.edu / @erikgarrison
+- [Calling variants with freebayes](http://clavius.bc.edu/~erik/CSHL-advanced-sequencing/freebayes-tutorial.html) : By Erik Garrison erik.garrison@bc.edu / @erikgarrison  
+
+- [Wuxi Nextcode Clinical Sequence Analyzer Tutorial](https://youtu.be/rMMPwoSYKO4) (YouTube)  
