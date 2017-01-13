@@ -1,4 +1,4 @@
-# teaching_datasets
+## Teaching Datasets
 shared teaching and demo data sets/resources
 
 - NGS Test Data: [GIAB_NA12878_chr20](https://github.com/genomic-medicine-msc-bioinformatics/teaching_datasets/tree/master/GIAB_NA12878_chr20)
