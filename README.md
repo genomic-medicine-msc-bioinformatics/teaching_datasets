@@ -7,6 +7,8 @@ shared teaching and demo data sets/resources
     - na12878_sorted_marked.bam.bai	 
     - snpEff_summary.html	 
     
+ _note: NO fastq or BAM_
+    
 
 - Glosssary of Terms: [glossary.md](https://github.com/genomic-medicine-msc-bioinformatics/teaching_datasets/blob/master/glossary.md) *(from [Clinical Bioinformatics: Unlocking Genomics in Healthcare](https://www.futurelearn.com/courses/bioinformatics/), University of Manchester)*
 
